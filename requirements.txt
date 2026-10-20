@@ -1,0 +1,4 @@
+matplotlib==3.10.9
+neo4j==5.28.2
+psycopg2==2.9.11
+python-dotenv==1.2.2
